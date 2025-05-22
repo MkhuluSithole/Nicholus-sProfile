@@ -9,7 +9,7 @@ I'm doing my final year at Cape Peninsula University of Technology (CPUT) in Dip
 
 **Available for collaborations**  
 
-<img src="https://github.com/MkhuluSithole/Nicholus-sProfile.git/blob/main/1000.jpg?raw=true" alt="Your Photo" style="border-radius: 50%; margin-top: 20px; border: 3px solid #333; width: 150px; height: 150px; object-fit: cover;">
+<img src="https://github.com/MkhuluSithole/Nicholus-sProfile.git/raw/main/images/1000.jpg?raw=true" alt="Your Photo" style="border-radius: 50%; margin-top: 20px; border: 3px solid #333; width: 150px; height: 150px; object-fit: cover;">
 ---
 
 ## 🛠️ Technologies & Tools
